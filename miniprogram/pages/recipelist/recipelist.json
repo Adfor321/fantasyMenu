@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "vant-rate":"/miniprogram_npm/@vant/weapp/rate/index"
+  },
+  "navigationBarTitleText": ""
+}
